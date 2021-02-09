@@ -1,1 +1,1 @@
-# gitblog에 배포전 `.ipynb`파일 관리용 ``
+# gitblog에 배포전 `.ipynb`파일 관리용 `repo`
